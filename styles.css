@@ -1,2 +1,12 @@
-
-/* Your CSS Code here. */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+	font-family:'Poppins', sans-serif;
+}
+h1{
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+.btn{
+	margin-bottom: 25px;
+}
